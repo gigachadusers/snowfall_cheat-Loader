@@ -30,10 +30,10 @@ It's built as a **single `.cpp` file**, making it easy to drop into any fresh Vi
 ## Preview Flow
 
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   LOGIN     │ ──▶ │   LOADING   │ ──▶ │    MAIN     │ ──▶ │   POPUP     │
-│  user/pass  │     │  5s spinner │     │  5 buttons  │     │  "Hi" msgbox │
-└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────────┐
+│   LOGIN     │ ──▶│   LOADING    │ ──▶│    MAIN     │ ──▶│   POPUP         │
+│  user/pass  │     │  5s spinner │     │  5 buttons  │     │  "debug" msgbox │
+└─────────────┘     └─────────────┘     └─────────────┘     └─────────────────┘
 ```
 
 | Screen | What happens |
