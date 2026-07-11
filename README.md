@@ -41,7 +41,7 @@ It's built as a **single `.cpp` file**, making it easy to drop into any fresh Vi
 |  **Login** | Themed username/password fields, validated locally |
 |  **Loading** | Custom-drawn rotating arc spinner, 5-second delay |
 |  **Main Menu** | 5 owner-drawn purple/black buttons in a responsive grid |
-|  **Action** | Short spinner → native `MessageBoxW` popup ("Hi") |
+|  **Action** | Short spinner → native `MessageBoxW` popup ("debug") |
 |  **Always-on** | Soft, alpha-blended falling snow layered over every screen |
 
 ---
